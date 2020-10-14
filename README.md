@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
+Analyzed the effects of News Sentiments on the Stock Market. Created a hybrid model using traditional statistical classification models such as Auto Regressive Integrated Moving Average (ARIMA) and machine learning models using stock prices and sentiment analysis model based on social media and news data, may provide more accurate predictions of long and short-term stock price movements
